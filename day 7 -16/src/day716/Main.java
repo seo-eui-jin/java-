@@ -13,5 +13,7 @@ public class Main {
 //		kim.age = 10;
 		
 		// private 변수에 값을 설정할 때는 setter를, 변수에 저장된 값을 가져올때는 getter를 사용한다.
+		
+
 	}
 }
